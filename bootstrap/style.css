@@ -1,0 +1,40 @@
+header{
+    background-color: #1e2124;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+#section1{
+    background-color: #1e2124;
+}
+h1{
+    color: white !important;
+}
+.col p{
+    color: grey;
+}
+.square{
+    color: #c5bfbf !important;
+    width: 600px;
+    height: 400px;
+    margin: 5px;
+}
+.row-bos{
+    height: 60px;
+}
+.ct-2{
+    background-color: white;
+}
+h2{
+    color: black;
+}
+#section3{
+    height: 400px;
+    background-color: #d2d2d2;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
